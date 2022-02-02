@@ -1,0 +1,4 @@
+#!/bin/bash
+clear
+mpicc main.c -o main.x
+mpirun -np $1 ./main.x
