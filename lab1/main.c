@@ -3,7 +3,7 @@
 другим процессам для поиска максимума. Собрав локальные максимумы,
 ищет общий.
 */
-
+ffefe
 #include <stdio.h>
 #include <malloc.h>
 #include <string.h>
